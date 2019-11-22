@@ -1,0 +1,44 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[left=1in ,right=1in, top=1in, bottom=1in, footskip=.25in]{geometry}
+\usepackage{setspace}
+\usepackage{natbib}
+
+\begin{document}
+
+\noindent Jamis Bruening \\
+MnM4SDS (GEOG 788p) \\
+Project Proposal 
+
+\onehalfspace
+
+\section{Introduction}
+
+My proposed project is to spatially interrogate plot-level data for the Howland Experimental Forest in Maine.  This site will likely be important to the calibration and/or validation of a forest growth model I am using in my dissertation work, and thus I'm interested in Exploratory Spatial Data Analysis at the site to uncover any potentially useful trends in space, specifically related to tree age and growth rates.  The plot level data is quite a rich dataset, and there may be potential for me to gain access to other additional, supplemental data sources as well.  I will briefly address several sections of information related to my proposed ideas for this project, and will elaborate on these areas as my project progresses.
+
+\section{Potential Data Sources}
+
+I've been given access to tree-level data for an approximately 3-ha area within the Howland Experimental Forest in central Maine.  This data set is both spatial and temporal, including georeferenced xy coordinates of every tree (around 3000) in 1989, its species, and measurements of the diameter at breast height (DBH), tree height, and canopy class for 1989, 2010, and 2016.  From these data I can easily calculate several other tree and plot level variables, such as total basal area, and tree- and plot-level biomass or biomass density.  This data is stored as a spread sheet.
+
+I'm also interested in joining this data with gridded topographic information to gain potential insights as to the spatial distribution of trees and different species as related to the environmental conditions at this site.
+
+\section{Study Area}
+
+The Howland Experimental Forest is a forest ecosystem research site in central Maine, established in the mid-1980s.  It is the second-longest eddy flux record in the United States and is a founding member site of the Ameriflux network, and thus has been home to extensive research across a variety of various environmental-related disciplines.  Recent works based partially or entirely from the data set I'm using in this project are related to environmental drivers of forest dynamics, specifically climate related growth and mortality \citep{teets2018a,teets2018b,fien2019}.
+
+\section{Question and Objective}
+
+My interest in this data set is two-fold; practically speaking I want to learn the intricacies of this site as it will be useful as I go about using the data to calibrate an validate a forest growth model \citep{fischer2016} for temperate forests in the Northeastern United States, however I've had a long interest in spatial data analysis and statistics, and am interested in applying new methods I'm learning in this class in an environmental context.  Thus, my primary questions are to what extent can I a) accurately identify spatial trends in the species distribution and growth-related variables (DBH, height, biomass, etc.) and b) attribute these trends to the environmental characteristics of the site.  My overall objectives are also two fold; first to apply the python-based spatial analysis tools I've learned in the class to messy, real world environmental data to uncover spatial trends in the data that may be necessary for a comprehensive understanding of this ecosystem, and second to become familiar with the various aspects of this data set which will prove useful when using it to calculate model parameters or validate results.
+
+\section{Python tools}
+
+Since I have less python experience than most others in the class, I plan to follow the lecture materials closely at first, applying the relevant lecture and reading examples to this project when applicable.  I am not familiar with many spatial tools available in python other than those covered thus far in this course.  I plan to start with basic descriptive spatial statistics relevant to a point data set, such as spatial autocorrelation, point pattern analysis and complete spatial randomness, and spatial regression.  I hope to also move toward a geographically weighted regression of sorts, as I understand there are potentially new environmental applications of this tool, although I am not yet familiar with them.  
+
+\section{Envisioned Challenges}
+
+The primary reason I took this course was to force myself into experience with python.  Thus, one of the main challenges I see is the programming side of the project.  I could do much of this project in R in a fraction of the time, and I can already see this 'grass is always greener' attitude potentially being a challenge when I inevitably get stuck performing simple ESDA and data munging tasks in python.  Another challenge may be paring vector and raster data together, and the extent to which I can actually attribute spatial patterns in the trees to a causal mechanism from the site's physical or environmental characteristics.  There isn't high resolution climate data at the site, and so I'm interested in ways I can potentially understand the spatial dynamics in the point data with spatially continuous (gridded) data.
+
+\bibliographystyle{apa}
+\bibliography{proposal.bib}
+
+
+\end{document}
