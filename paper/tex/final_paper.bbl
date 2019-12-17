@@ -1,0 +1,121 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Albani et~al.}{2006}]{albani2006}
+Albani, M., Medvigy, D., Hurtt, G.~C., and Moorcroft, P.~R. (2006).
+\newblock The contributions of land-use change, co2 fertilization, and climate
+  variability to the eastern us carbon sink.
+\newblock {\em Global Change Biology}, 12(12):2370--2390.
+
+\bibitem[\protect\astroncite{Anselin}{1995}]{anselin1995}
+Anselin, L. (1995).
+\newblock Local indicators of spatial association?lisa.
+\newblock {\em Geographical analysis}, 27(2):93--115.
+
+\bibitem[\protect\astroncite{Brunsdon
+  et~al.}{1996}]{brunsdon1996geographically}
+Brunsdon, C., Fotheringham, A.~S., and Charlton, M.~E. (1996).
+\newblock Geographically weighted regression: a method for exploring spatial
+  nonstationarity.
+\newblock {\em Geographical analysis}, 28(4):281--298.
+
+\bibitem[\protect\astroncite{Canadell et~al.}{2007}]{canadell2007saturation}
+Canadell, J.~G., Pataki, D.~E., Gifford, R., Houghton, R.~A., Luo, Y., Raupach,
+  M.~R., Smith, P., and Steffen, W. (2007).
+\newblock Saturation of the terrestrial carbon sink.
+\newblock In {\em Terrestrial ecosystems in a changing world}, pages 59--78.
+  Springer.
+
+\bibitem[\protect\astroncite{Foster et~al.}{1998}]{foster1998}
+Foster, D.~R., Motzkin, G., and Slater, B. (1998).
+\newblock Land-use history as long-term broad-scale disturbance: regional
+  forest dynamics in central new england.
+\newblock {\em Ecosystems}, 1(1):96--119.
+
+\bibitem[\protect\astroncite{Fotheringham
+  et~al.}{2017}]{fotheringham2017multiscale}
+Fotheringham, A.~S., Yang, W., and Kang, W. (2017).
+\newblock Multiscale geographically weighted regression (mgwr).
+\newblock {\em Annals of the American Association of Geographers},
+  107(6):1247--1265.
+
+\bibitem[\protect\astroncite{Houghton et~al.}{2018}]{houghton2018}
+Houghton, R.~A., Baccini, A., and Walker, W.~S. (2018).
+\newblock Where is the residual terrestrial carbon sink?
+\newblock {\em Global change biology}, 24(8):3277--3279.
+
+\bibitem[\protect\astroncite{Houghton et~al.}{2012}]{houghton2012}
+Houghton, R.~A., House, J., Pongratz, J., Van Der~Werf, G., DeFries, R.,
+  Hansen, M., Qu{\'e}r{\'e}, C.~L., and Ramankutty, N. (2012).
+\newblock Carbon emissions from land use and land-cover change.
+\newblock {\em Biogeosciences}, 9(12):5125--5142.
+
+\bibitem[\protect\astroncite{Houghton and Nassikas}{2017}]{houghton2017}
+Houghton, R.~A. and Nassikas, A.~A. (2017).
+\newblock Global and regional fluxes of carbon from land use and land cover
+  change 1850--2015.
+\newblock {\em Global Biogeochemical Cycles}, 31(3):456--472.
+
+\bibitem[\protect\astroncite{Hurtt et~al.}{2011}]{hurtt2011}
+Hurtt, G.~C., Chini, L.~P., Frolking, S., Betts, R., Feddema, J., Fischer, G.,
+  Fisk, J., Hibbard, K., Houghton, R., Janetos, A., et~al. (2011).
+\newblock Harmonization of land-use scenarios for the period 1500--2100: 600
+  years of global gridded annual land-use transitions, wood harvest, and
+  resulting secondary lands.
+\newblock {\em Climatic change}, 109(1-2):117.
+
+\bibitem[\protect\astroncite{Hurtt et~al.}{2006}]{hurtt2006}
+Hurtt, G.~C., Frolking, S., Fearon, M., Moore, B., Shevliakova, E., Malyshev,
+  S., Pacala, S.~W., and Houghton, R. (2006).
+\newblock The underpinnings of land-use history: Three centuries of global
+  gridded land-use transitions, wood-harvest activity, and resulting secondary
+  lands.
+\newblock {\em Global Change Biology}, 12(7):1208--1229.
+
+\bibitem[\protect\astroncite{Hurtt et~al.}{2002}]{hurtt2002}
+Hurtt, G.~C., Pacala, S., Moorcroft, P.~R., Caspersen, J., Shevliakova, E.,
+  Houghton, R., and Moore, B. (2002).
+\newblock Projecting the future of the us carbon sink.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  99(3):1389--1394.
+
+\bibitem[\protect\astroncite{Oshan et~al.}{2019}]{oshan2019mgwr}
+Oshan, T.~M., Li, Z., Kang, W., Wolf, L.~J., and Fotheringham, A.~S. (2019).
+\newblock mgwr: A python implementation of multiscale geographically weighted
+  regression for investigating process spatial heterogeneity and scale.
+\newblock {\em ISPRS International Journal of Geo-Information}, 8(6):269.
+
+\bibitem[\protect\astroncite{Runkle}{1981}]{runkle1981gap}
+Runkle, J.~R. (1981).
+\newblock Gap regeneration in some old-growth forests of the eastern united
+  states.
+\newblock {\em Ecology}, 62(4):1041--1051.
+
+\bibitem[\protect\astroncite{Schimel et~al.}{2015}]{schimel2015}
+Schimel, D., Stephens, B.~B., and Fisher, J.~B. (2015).
+\newblock Effect of increasing co2 on the terrestrial carbon cycle.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  112(2):436--441.
+
+\bibitem[\protect\astroncite{Shugart et~al.}{1984}]{shugart1984theory}
+Shugart, H.~H. et~al. (1984).
+\newblock {\em A theory of forest dynamics: the ecological implications of
+  forest succession models}, volume 278.
+\newblock Springer-Verlag New York; Berlin; Heidelberg; Tokyo.
+
+\bibitem[\protect\astroncite{Symanzik}{2014}]{symanzik2014exploratory}
+Symanzik, J. (2014).
+\newblock Exploratory spatial data analysis.
+\newblock {\em Handbook of regional science}, pages 1295--1310.
+
+\bibitem[\protect\astroncite{West et~al.}{2012}]{west2012forest}
+West, D.~C., Shugart, H.~H., and Botkin, D. (2012).
+\newblock {\em Forest succession: concepts and application}.
+\newblock Springer Science \& Business Media.
+
+\bibitem[\protect\astroncite{Yamamoto}{1992}]{yamamoto1992gap}
+Yamamoto, S.-I. (1992).
+\newblock The gap theory in forest dynamics.
+\newblock {\em The botanical magazine= Shokubutsu-gaku-zasshi},
+  105(2):375--383.
+
+\end{thebibliography}
